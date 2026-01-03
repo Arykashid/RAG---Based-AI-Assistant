@@ -1,0 +1,6 @@
+I am teaching SQL in my SQL course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Complete SQL JOINS For Beginn","number":"11","start":479.0,"end":481.0,"text":" so I will write select"},{"title":"How To Import Excel File (CSV) to ","number":"6","start":193.84,"end":195.84,"text":" select"},{"title":"Complete SQL Subquery Using Comparison and Logical Operat","number":"13","start":157.0,"end":159.0,"text":" I will write here select"},{"title":"Complete SQL Subquery Using Comparison and Logical Operat","number":"13","start":546.0,"end":549.0,"text":" So select"},{"title":"Group By and Having Clause in ","number":"9","start":52.8,"end":54.32,"text":" We wrote select mod"}]
+---------------------------------
+"write select query"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

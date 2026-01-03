@@ -1,0 +1,13 @@
+I'd be happy to help you with your SQL course.
+
+You're asking about how to write a SELECT query, right? Well, it seems like this topic is covered in multiple videos, but let's focus on the ones where it's explicitly discussed.
+
+The concept of writing a SELECT query is introduced in Video 6, "How To Import Excel File (CSV) to ", starting at timestamp 194 seconds. The instructor discusses how to import an Excel file into SQL using a SELECT query.
+
+Later, in Video 11, "Complete SQL JOINS For Beginner", the instructor explains different types of joins and shows examples of how to write a SELECT query for each join type. However, this video doesn't specifically focus on writing a basic SELECT query from scratch.
+
+In Video 9, "Group By and Having Clause in ", the instructor discusses the GROUP BY clause and its relationship with the HAVING clause. While not directly focusing on writing a SELECT query, this video does touch upon how to use aggregate functions in a SELECT statement.
+
+To get a better understanding of how to write a SELECT query from scratch, I recommend starting with Video 6. From there, you can move on to Video 11 if you want to learn about different types of joins. If you're looking for more information on GROUP BY and HAVING clauses, Video 9 is also worth watching.
+
+Do any of these videos sound like a good starting point for you?
